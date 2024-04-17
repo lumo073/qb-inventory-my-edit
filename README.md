@@ -9,7 +9,10 @@
 [buy a coffee](https://www.paypal.com/paypalme/murtazaakbari20)
 
 
-# Credit where Credit is Due
-Thanks to loljoshie for originally creating the lj-inventory we've all come to love.
-Thanks to ok1ez and the project sloth dev team for continuing lj-inventory's existence with keeping it up to date and maintaining it as ps-inventory.
-Thanks to the Project Sloth Community. Without the support on the first version this release wouldn't be possible.
+# Credits
+- OK1ez for full redesign.
+- ihyajb (Aj) for original version
+- Jay for decay
+- i-kulgu for updated decay
+- OnlyCats who helped reorganize and also created some custom images.
+- iONDegen for Redesigned 
